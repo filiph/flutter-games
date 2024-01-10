@@ -18,6 +18,8 @@ Flame features:
 - Effects
 - Spawns
 
+\>> [DOWNLOAD THIS TEMPLATE](https://download-directory.github.io?url=https://github.com/flutter/games/tree/main/templates/endless_runner) <<
+
 You can jump directly into building your game in `lib/flame_game/`.
 
 When you're ready for things like ads, in-app purchases, achievements,

@@ -7,6 +7,8 @@ including the following features:
 - settings
 - sound
 
+\>> [DOWNLOAD THIS TEMPLATE](https://download-directory.github.io?url=https://github.com/flutter/games/tree/main/templates/basic) <<
+
 You can jump directly into building your game in `lib/play_session/`.
 
 When you're ready for things like ads, in-app purchases, achievements,

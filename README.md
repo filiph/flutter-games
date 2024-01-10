@@ -11,6 +11,21 @@ If you're new to Flutter, you first need to install the
 [Flutter SDK](https://flutter.dev/).
 
 
+## Getting the code
+
+The meat of this repository is the various template and sample projects.
+You can certainly clone this repository in its entirety (see below),
+but chances are you're only interested in one template or sample,
+and not the others.
+
+Each README file in the `templates/` and `samples/` subdirectories
+has a prominent link to download that particular project.
+
+Alternatively, you can
+[download the ZIP file](https://github.com/flutter/games/archive/refs/heads/main.zip)
+of this entire repository, or clone it on the command line (see below).
+
+
 ## Organization
 
 The projects in this repository are divided into two broad categories:
@@ -39,7 +54,7 @@ The projects in this repository are divided into two broad categories:
 ```
 
 
-## How to use
+## Cloning this repository
 
 1. Clone this repository.
 
@@ -49,10 +64,6 @@ The projects in this repository are divided into two broad categories:
    ```shell
    git clone --filter=blob:none https://github.com/flutter/games.git
    ```
-
-   (Alternatively, you can 
-   [download the ZIP file](https://github.com/flutter/games/archive/refs/heads/main.zip)
-   and uncompress it on your workstation.)
 
 2. `cd` into the project you are interested in. For example:
 

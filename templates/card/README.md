@@ -9,6 +9,8 @@ including the following features:
 - drag and drop
 - minimal game state management
 
+\>> [DOWNLOAD THIS TEMPLATE](https://download-directory.github.io?url=https://github.com/flutter/games/tree/main/templates/card) <<
+
 You can jump directly into building your game in `lib/play_session/`.
 
 When you're ready for things like ads, in-app purchases, achievements,

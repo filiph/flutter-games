@@ -3,6 +3,8 @@ A sample project based on the
 that adds multiplayer functionality through Firebase's
 [Cloud Firestore](https://firebase.google.com/docs/firestore).
 
+\>> [DOWNLOAD THIS SAMPLE](https://download-directory.github.io?url=https://github.com/flutter/games/tree/main/samples/multiplayer) <<
+
 Read about adding multiplayer to your mobile game
 in this cookbook recipe:
 
